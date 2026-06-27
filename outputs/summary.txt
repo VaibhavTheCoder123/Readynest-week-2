@@ -1,0 +1,8 @@
+RETAIL SALES EDA SUMMARY
+==================================================
+
+Rows: 120000
+Columns: 24
+Total Sales: 45,357,054.45
+Average Sale: 377.98
+Highest Sale: 2,467.55
